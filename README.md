@@ -2,7 +2,7 @@ Steps:
 run the following commands on cmd
 
 1) pip install -r requirements.txt
-2) run run.bat
+2) run.bat
 3) open localhost:5000 on browser
 
 
