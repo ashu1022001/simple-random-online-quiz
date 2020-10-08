@@ -6,7 +6,7 @@ run the following commands on cmd
 3) open localhost:5000 on browser
 
 
-Generates 10 random multiple choice questions quiz on each refresh
-Gives quiz results on submit 
-No additional configuration required
-No DB config required
+Generates 10 random multiple choice questions quiz on each refresh<br/>
+Gives quiz results on submit<br/>
+No additional configuration required<br/>
+No DB config required<br/>
